@@ -1,3 +1,1 @@
-void setup(){}
-
-void draw(){}
+class capture{}
