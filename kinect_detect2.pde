@@ -11,7 +11,7 @@ void setup()
   
   if(context.enableDepth() == false)
   {
-     println("N récupère pas le depthMap, la camera n'est peut être pas connectée!"); 
+     println("Can't open the depthMap, maybe the camera is not connected!"); 
      exit();
      return;
   }
